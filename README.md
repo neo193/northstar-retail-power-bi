@@ -16,8 +16,8 @@ The final dashboard contains:
 - Gross Profit
 - Unique Customers
 - Discount Value
-- Revenue and Gross Margin by Region
-- Revenue and Gross Margin by Sales Channel
+- Revenue by Region
+- Revenue by Sales Channel
 - Discount Rate vs Gross Margin over time
 - Revenue vs YoY Revenue Growth
 - Interactive Region, Sales Channel, and Year/Month slicers
